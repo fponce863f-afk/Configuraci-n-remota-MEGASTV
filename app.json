@@ -1,9 +1,9 @@
 {
   "primary": "http://hhg0afch6sq.sn.mynetname.net:8080",
   "backup": null,
-  "version": 7,
-  "appVersionCode": 3,
-  "appVersionName": "0.3.0",
-  "apkUrl": "https://fponce863f-afk.github.io/Configuraci-n-remota-MEGASTV/MEGASTV-0.3.0.apk",
-  "updateMessage": "Nueva versión de prueba para verificar el actualizador automático."
+  "version": 8,
+  "appVersionCode": 4,
+  "appVersionName": "0.4.0",
+  "apkUrl": "https://fponce863f-afk.github.io/Configuraci-n-remota-MEGASTV/MEGASTV-0.4.0.apk",
+  "updateMessage": "Nueva versión disponible de MEGASTV."
 }
